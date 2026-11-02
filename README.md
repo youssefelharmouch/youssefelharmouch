@@ -16,23 +16,6 @@ J'accorde une importance majeure à un code **structuré, testé et facile à d�
 
 ---
 
-## Mes domaines de travail
-
-- **Gestion de batterie et diagnostic prédictif (BMS)**
-  Supervision temps réel, estimation du SOC (State-of-Charge par comptage de coulombs), modèle équivalent de Thévenin et logiques de protection thermique/tension.
-- **Diagnostic et communication automobile**
-  Services de diagnostic UDS (ISO 14229) sur ECU simulé, formatage de trames ISO-TP, communication CAN bus et dashboards web de supervision.
-- **Modélisation, contrôle et simulation véhicule**
-  Modélisation sous MATLAB/Simulink (boîte automatique 7-vitesses DSG, régulation PI, optimisation de consommation BSFC par Algorithmes Génétiques).
-- **IA et Cybersécurité appliquées à l'automobile**
-  Pipelines Python (Scikit-learn, XGBoost) pour la détection de cyberattaques sur le réseau CAN (DoS, Fuzzing) et la maintenance prédictive.
-- **Systèmes embarqués et acquisition industrielle**
-  Conception d'architectures d'acquisition multi-capteurs, contrôle d'actionneurs d'urgence, affichage I2C/LCD et microcontrôleurs (STM32, ESP32, PIC16F887).
-- **Robotique et contrôle autonome**
-  Asservissement de servomoteurs, traitement de capteurs ultrasons/radar Doppler et interfaces visuelles Pygame.
-
----
-
 ## Projets sélectionnés
 
 ### 🚘 Plateforme IoT de Diagnostic Automobile & Télémétrie UDS
